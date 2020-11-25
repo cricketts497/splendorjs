@@ -1,0 +1,28 @@
+{
+  "name": "splendorjs",
+  "version": "1.0.0",
+  "description": "Online multiplayer version of the board game splendor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricketts497/splendorjs.git"
+  },
+  "keywords": [
+    "game",
+    "boardGame",
+    "Splendor"
+  ],
+  "author": "cricketts497",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricketts497/splendorjs/issues"
+  },
+  "homepage": "https://github.com/cricketts497/splendorjs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
